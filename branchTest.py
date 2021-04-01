@@ -3,3 +3,6 @@ def a():
 
 def b():
     print("this is a")
+
+def d():
+    print("this is d")
